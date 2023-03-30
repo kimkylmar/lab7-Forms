@@ -81,3 +81,13 @@ html {
   font-size: medium;
   color: #fff;
 }
+
+footer{
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: #8985c9c9;
+color: #fff;
+text-align: center;
+}
